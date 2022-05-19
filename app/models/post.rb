@@ -11,3 +11,4 @@ class Post < ApplicationRecord
 
 
 end
+# to add custom validations
